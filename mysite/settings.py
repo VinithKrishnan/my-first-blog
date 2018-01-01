@@ -25,7 +25,7 @@ SECRET_KEY = 'o5o202m=c$mr2^^%^^rtm0vf9=_630^ks$4)$7_8mi=yht!(&v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'vinith.pythonanywhere.com']
 
 
 # Application definition
